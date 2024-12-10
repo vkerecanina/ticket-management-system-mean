@@ -18,7 +18,9 @@
   "homepage": "https://github.com/vkerechanina/ticket-managment-system-mean#readme",
   "dependencies": {
     "express": "^4.21.2",
-    "mongoose": "^8.8.4"
+    "mongodb": "^4.17.2",
+    "mongoose": "^8.8.4",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "dotenv": "^16.4.7",
