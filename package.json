@@ -1,0 +1,27 @@
+{
+  "name": "ticket-management-system-mean",
+  "version": "1.0.0",
+  "description": "Ticket Management System - MEAN Stack",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkerechanina/ticket-managment-system-mean.git"
+  },
+  "author": "Valentina Kerecanina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkerechanina/ticket-managment-system-mean/issues"
+  },
+  "homepage": "https://github.com/vkerechanina/ticket-managment-system-mean#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "nodemon": "^3.1.7"
+  }
+}
